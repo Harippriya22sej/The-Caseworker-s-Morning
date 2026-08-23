@@ -1,6 +1,5 @@
 # The-Caseworker-s-Morning
 Build an agent that performs a caseworker’s routine morning sequence end to end, and stops to ask a human before doing anything that cannot be undone.
-Here is a clean, beginner-friendly `README.md` file designed to meet the exact requirements of your submission.
 
 # The Caseworker's Morning Agent
 
