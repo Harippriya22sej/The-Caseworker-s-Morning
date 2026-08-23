@@ -39,6 +39,6 @@ Follow these steps to run the agent from a clean clone.
 
 Execute the main Python script from your terminal:
 
-> `python caseworker_agent.py`
+> `python agent.py`
 
 The agent will output a **visible execution trace** directly to the console. If it evaluates a referral as safe, the system will halt and prompt you for a `y/n` input to approve saving the triage note.
